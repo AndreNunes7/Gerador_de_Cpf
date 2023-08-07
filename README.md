@@ -25,7 +25,4 @@ Este script gera um número de CPF aleatório, seguindo a estrutura válida de C
 
 Contribuições e melhorias são bem-vindas! Sinta-se à vontade para enviar pull requests para este repositório.
 
-## Licença
-
-Este projeto está sob a [Licença MIT](LICENSE).
 
